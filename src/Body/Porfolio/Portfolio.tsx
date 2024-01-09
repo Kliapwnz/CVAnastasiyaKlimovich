@@ -8,7 +8,7 @@ export const Portfolio = () => {
             <h2 className={s.headerName}>Portfolio</h2>
             <div className={s.portfolioContent}>
                 <img className={s.imgPortfolio} src={be} alt=""/>
-                <a className={s.link} href="behance.net/anastasiya_klimovich">behance.net/anastasiya_klimovich</a>
+                <a className={s.link} href="https://www.behance.net/anastasiya_klimovich">behance.net/anastasiya_klimovich</a>
             </div>
         </div>
     );

@@ -1,0 +1,35 @@
+.mainContacts{
+
+}
+.mainNameContacts{
+    width: 209px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #EFF7FF;
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -1.08px;
+    margin-bottom: 0;
+}
+.pointContact{
+    display: flex;
+    padding-right: 7.036px;
+    align-items: center;
+    height: 30px;
+    margin-left: 25px;
+}
+.imgContact{
+    width: 17.964px;
+    height: 17.964px;
+    margin-right: 15px;
+}
+.allContacts {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    margin-top: 20px;
+}

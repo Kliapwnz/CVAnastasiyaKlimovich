@@ -1,0 +1,52 @@
+.mainEducation {
+    width: 351px;
+    height: 329px;
+    margin-bottom: 60px;
+
+}
+
+.mainNameEducation {
+    width: 244px;
+    border-radius: 10px;
+    background: #EFF7FF;
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -1.08px;
+    margin-bottom: 0;
+}
+
+.yearStudy {
+    color: #1179E4;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: -0.6px;
+    margin-bottom: 10px;
+}
+
+.nameSchool {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.6px;
+}
+
+.profName {
+    color: #8B8B8B;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    margin-top: 10px;
+}
+
+.school {
+    margin-top: 24px;
+}
+.pointSchool {
+    margin-left: 25px;
+}
