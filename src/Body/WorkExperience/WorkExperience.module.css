@@ -1,6 +1,6 @@
 .mainExperience {
     width: 455px;
-    height: 652px;
+    height: 632px;
     flex-shrink: 0;
     margin: 75px 0 0 0;
 }
@@ -75,6 +75,7 @@
 }
 
 .itemSkills {
+    width: 430px;
     color: #8B8B8B;
     font-size: 20px;
     font-style: normal;
