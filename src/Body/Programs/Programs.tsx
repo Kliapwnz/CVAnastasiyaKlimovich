@@ -26,7 +26,7 @@ export const Programs = () => {
                     <p className={s.itemPrograms}>AfterEffects</p>
                     <img className={s.imgProgram} src={after} alt=""/>
                 </div>
-                <p className={s.itemPrograms}><span className={s.word}> Additionally:</span> InDesign, Google Analytics, Search Console, Ahrefs, Miro, Jira. </p>
+                <p className={s.itemPrograms}><span className={s.wordOne}> Additionally:</span> InDesign, Google Analytics, Search Console, Ahrefs, Miro, Jira. </p>
             </div>
         </div>
     );

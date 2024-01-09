@@ -2,7 +2,7 @@
     width: 455px;
     height: 652px;
     flex-shrink: 0;
-    margin-top: 75px;
+    margin: 75px 0 0 0;
 }
 
 .mainNameExperience {
@@ -26,9 +26,9 @@
 }
 
 .imgExp {
-    margin-top: 28px;
-    width: 13px;
-    height: 296px;
+    margin-top: 7px;
+    width: 14px;
+    height: 305px;
 }
 
 .borderExperience {
@@ -81,5 +81,5 @@
     font-weight: 300;
     line-height: normal;
     letter-spacing: -0.6px;
-    margin-top: 20px;
+    margin: 20px 0 40px 0;
 }

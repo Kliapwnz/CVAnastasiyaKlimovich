@@ -8,18 +8,28 @@
 .headerName {
     width: 190px;
     color: #1179E4;
+    margin-bottom: 0;
 }
 
 .portfolioContent {
-    margin: 25px 25px 0 18px;
+    margin: 32px 0 0 25px;
+    text-align: center;
 }
-
+.portfolioContents{
+    margin: 25px 0 0 25px;
+    text-align: center;
+}
 .imgPortfolio {
     width: 24px;
     height: 24px;
-    margin-right: 15px;
+
 }
 
 .link {
+ margin-right: 35px;
+}
 
+.center {
+    display: inline-flex;
+    align-items: center;
 }
