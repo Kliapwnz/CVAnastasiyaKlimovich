@@ -1,0 +1,7 @@
+.img {
+    width: 292px;
+    height: 289px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background:lightgray -20.425px -17.355px / 106.995% 143.603% no-repeat;
+}
