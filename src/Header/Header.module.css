@@ -1,25 +1,50 @@
-.mainHeader{
+.mainHeader {
     display: inline-flex;
-    padding: 70px 100px;
     justify-content: center;
     gap: 139px;
-
+    border-bottom: 1.5px solid #1179E4;
 }
 
-.text{
+.text {
     width: 484px;
     height: 281px;
 }
-.name{
- color: #1179E4;
-}
-.prof{
-    font-size: 30px;
-}
-
 .image {
+    padding: 14px;
     width: 292px;
     height: 289px;
     border-radius: 10px;
-    border:2px solid #ddeeff;
+    border: 2px solid #ddeeff;
+}
+
+.name {
+    margin: 0;
+    font-size: 47px;
+    color: #1179E4;
+    font-weight: 500;
+    letter-spacing: -1.41px;
+}
+
+.prof {
+    font-size: 30px;
+    font-weight: 300;
+    margin: 0;
+}
+.vector{
+    width: 14px;
+    height: 20px;
+    margin-right: 18px;
+
+}
+.location {
+    font-weight: 500;
+    letter-spacing: -0.6px;
+    margin: 20px 0 20px 0;
+    font-size: 20px;
+}
+
+.about {
+    font-weight: 300;
+    letter-spacing: -0.6px;
+    font-size: 20px;
 }

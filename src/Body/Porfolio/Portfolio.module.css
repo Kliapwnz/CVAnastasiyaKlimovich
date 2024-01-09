@@ -1,0 +1,33 @@
+.mainPortfolio {
+    width: 414px;
+    height: 119px;
+    flex-shrink: 0;
+    margin-top: 75px;
+}
+
+.headerName {
+    border-radius: 10px;
+    background: #EFF7FF;
+    width: 190px;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -1.08px;
+    text-align: center;
+    color: #1179E4;
+}
+
+.portfolioContent {
+    margin: 25px 25px 0 18px;
+}
+
+.imgPortfolio {
+    width: 24px;
+    height: 24px;
+    margin-right: 15px;
+}
+
+.link {
+
+}
