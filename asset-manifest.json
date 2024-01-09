@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CVAnastasiyaKlimovich/static/css/main.f8c86efc.css",
+    "main.css": "/CVAnastasiyaKlimovich/static/css/main.2d4750dc.css",
     "main.js": "/CVAnastasiyaKlimovich/static/js/main.3a8085b6.js",
     "static/js/787.c5cb8c45.chunk.js": "/CVAnastasiyaKlimovich/static/js/787.c5cb8c45.chunk.js",
     "static/media/anastasiya.jpg": "/CVAnastasiyaKlimovich/static/media/anastasiya.20202688085eb552572a.jpg",
     "index.html": "/CVAnastasiyaKlimovich/index.html",
-    "main.f8c86efc.css.map": "/CVAnastasiyaKlimovich/static/css/main.f8c86efc.css.map",
+    "main.2d4750dc.css.map": "/CVAnastasiyaKlimovich/static/css/main.2d4750dc.css.map",
     "main.3a8085b6.js.map": "/CVAnastasiyaKlimovich/static/js/main.3a8085b6.js.map",
     "787.c5cb8c45.chunk.js.map": "/CVAnastasiyaKlimovich/static/js/787.c5cb8c45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8c86efc.css",
+    "static/css/main.2d4750dc.css",
     "static/js/main.3a8085b6.js"
   ]
 }
