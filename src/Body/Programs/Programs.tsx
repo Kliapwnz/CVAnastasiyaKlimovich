@@ -1,26 +1,33 @@
 import React from 'react';
+import s from "./Programs.module.css"
+import figma from "../../figma.png"
+import photo from "../../Photoshop.png"
+import illustrator from "../../Ilustrator.png"
+import after from "../../After.png"
 
 export const Programs = () => {
     return (
-        <div>
-            <h2>Programs</h2>
-            <div>
-                <p>Figma</p>
-                <div></div>
+        <div className={s.mainPrograms}>
+            <h2 className={s.mainNamePrograms}>Programs</h2>
+            <div className={s.allProgram}>
+                <div>
+                    <p className={s.itemPrograms}>Figma</p>
+                    <img className={s.imgProgram} src={figma} alt=""/>
+                </div>
+                <div>
+                    <p className={s.itemPrograms}>Adobe Photoshop</p>
+                    <img className={s.imgProgram} src={photo} alt=""/>
+                </div>
+                <div>
+                    <p className={s.itemPrograms}>Adobe Illustrator</p>
+                    <img className={s.imgProgram} src={illustrator} alt=""/>
+                </div>
+                <div>
+                    <p className={s.itemPrograms}>AfterEffects</p>
+                    <img className={s.imgProgram} src={after} alt=""/>
+                </div>
+                <p className={s.itemPrograms}><span className={s.word}> Additionally:</span> InDesign, Google Analytics, Search Console, Ahrefs, Miro, Jira. </p>
             </div>
-            <div>
-                <p>Adobe Photoshop</p>
-                <div></div>
-            </div>
-            <div>
-                <p>Adobe Illustrator</p>
-                <div></div>
-            </div>
-            <div>
-                <p>AfterEffects</p>
-                <div></div>
-            </div>
-            <p></p>
         </div>
     );
 };

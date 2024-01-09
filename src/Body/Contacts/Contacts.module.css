@@ -1,5 +1,6 @@
 .mainContacts{
-
+    width: 411px;
+    height: 240px;
 }
 .mainNameContacts{
     width: 209px;
@@ -32,4 +33,6 @@
     align-items: flex-start;
     gap: 12px;
     margin-top: 20px;
+    height: 156px;
+    width: 420px;
 }

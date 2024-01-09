@@ -1,0 +1,85 @@
+.mainExperience {
+    width: 455px;
+    height: 652px;
+    flex-shrink: 0;
+    margin-top: 75px;
+}
+
+.mainNameExperience {
+    width: 334px;
+    background: #EFF7FF;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -1.08px;
+    text-align: center;
+    color: #1179E4;
+}
+
+.helpF {
+    margin-left: 25px;
+}
+
+.allWorkExperience {
+    display: flex;
+}
+
+.imgExp {
+    margin-top: 28px;
+    width: 13px;
+    height: 296px;
+}
+
+.borderExperience {
+    border-left: 1.5px solid #1179E4;
+}
+
+.itemExperience {
+
+}
+
+.workExp {
+    display: block;
+    flex-direction: column;
+}
+
+.dataExperience {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    margin:0 0 7px 0;
+}
+
+.placeExperience {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    margin: 0 0 7px 0;
+}
+.word {
+    color: #1179E4;
+}
+.profInfo {
+    color: #1179E4;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    margin: 0 0 7px 0;
+}
+
+.itemSkills {
+    color: #8B8B8B;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    margin-top: 20px;
+}

@@ -1,0 +1,26 @@
+.mainPrograms{
+    width: 392px;
+    height: 432px;
+    flex-shrink: 0;
+    margin-top: 60px;
+}
+.mainNamePrograms{
+    width: 220px;
+}
+.itemPrograms {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    margin: 0 0 10px 0;
+
+}
+.imgProgram{
+    width: 367px;
+    height: 7px;
+    margin-bottom: 25px;
+}
+.allProgram{
+    width: 367px;
+}
