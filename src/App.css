@@ -1,9 +1,3 @@
 .App {
-    display: grid;
-    grid-template-areas:
-"h h"
-"b f";
-    grid-template-rows: 60px 1fr;
-    grid-template-columns: 3fr 10fr;
-    grid-gap: 10px;
+
 }

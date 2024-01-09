@@ -1,7 +1,25 @@
-.img {
+.mainHeader{
+    display: inline-flex;
+    padding: 70px 100px;
+    justify-content: center;
+    gap: 139px;
+
+}
+
+.text{
+    width: 484px;
+    height: 281px;
+}
+.name{
+ color: #1179E4;
+}
+.prof{
+    font-size: 30px;
+}
+
+.image {
     width: 292px;
     height: 289px;
-    flex-shrink: 0;
     border-radius: 10px;
-    background:lightgray -20.425px -17.355px / 106.995% 143.603% no-repeat;
+    border:2px solid #ddeeff;
 }
